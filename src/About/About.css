@@ -67,3 +67,8 @@
   text-align: center;
   width: 70vw;
 }
+
+.credit-image-border {
+  border: 5px solid #D184D7;
+  border-radius: 5px;
+}
